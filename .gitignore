@@ -1,0 +1,5 @@
+pickles
+venv
+.idea
+__pycache__
+oauth2.json
